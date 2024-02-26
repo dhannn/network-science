@@ -1,7 +1,7 @@
 Creator "Mark Newman on Thu Aug 31 12:59:09 2006"
-multigraph 1
 graph
 [
+  multigraph 1
   directed 1
   node
   [
